@@ -1,4 +1,9 @@
-# Olá, eu sou Letícia Mendonça Lagos 
+ <h1 align="center">Oi, eu sou a Letícia! </h1>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;CESAR+School+-+Recife%2FPE;Curiosa+sobre+o+poder+da+tecnologia;Aprendendo+a+programar+do+zero" alt="Typing SVG" />
+</p>
  
 Estudante de **Ciências da Computação**, com interesse em **Inteligência Artificial** e **Cibersegurança**.
  
