@@ -42,6 +42,6 @@ Nas horas vagas, gosto de jogar, ler livros, assistir a filmes e séries e ir à
 ## Contato
  
 -  **E-mail:** [lemendoncalagos@gmail.com](mailto:lemendoncalagos@gmail.com)
--  **LinkedIn:** [Letícia Mendonça](https://www.linkedin.com/in/let%C3%ADciamendon%C3%A7a/)
+-  **LinkedIn:** [Letícia Mendonça](https://www.linkedin.com/in/leticiamendoncalagos/)
 >  Este perfil está em constante evolução, junto com os meus estudos e projetos.
 
